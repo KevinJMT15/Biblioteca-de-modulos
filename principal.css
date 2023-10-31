@@ -1,0 +1,146 @@
+body{
+    font-family: 'Gentium Book Plus', serif;
+    background-color: rgb(228, 228, 228)
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-transform: capitalize;
+    text-decoration: none;
+    list-style: none;
+}
+header{
+    background-image: url(img/layered-peaks-haikei.svg);
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 70vh;
+    display: flex;
+    align-items: center;
+}
+h1{
+    color: azure;
+}
+video{
+    width: 70%;
+    height: 5%;
+}
+#img2{
+    width: 250px;
+}
+.modulos{
+    padding: 80px 0px;
+    text-align: center;
+    color: #0e0e0e;   
+}
+.modulo{
+    display: flex;
+    align-items: center;
+}
+.test{
+    display: flex;
+    align-items: center;
+}
+.modulo-2 h2{
+    font-size: 55px;
+}
+
+.modulo img{
+    width: 350px;
+}
+.test img{
+    width: 350px;
+    margin-left: 250px;
+}
+.modulo-2{
+    text-align: left;
+    margin-left: 100px;
+
+}
+.modulo-2 h3{
+    font-size: 35px;
+    margin-bottom: 15px;
+
+}
+.modulo-2 p{
+    font-size: 18px;
+    color: #525254;
+    margin-bottom: 25px;
+    text-align: justify;
+}
+
+.modulo-3{
+    text-align: left;
+    margin-right: 100px;
+}
+.modulo-3 h3{
+    font-size: 35px;
+    margin-bottom: 15px;
+}
+.modulo-3 p{
+    font-size: 18px;
+    color: #525254;
+    margin-bottom: 25px;
+    text-align: justify;
+}
+
+.modulo-4{
+    text-align: left;
+    margin-left: 100px;
+}
+.modulo-4 h3{
+    font-size: 35px;
+    margin-bottom: 15px;
+}
+.modulo-4 p{
+    font-size: 18px;
+    color: #525254;
+    margin-bottom: 25px;
+    text-align: justify;
+}
+.test-1{
+    text-align: left;
+    margin-right: 100px;
+}
+.test-1 h3{
+    font-size: 35px;
+    margin-bottom: 15px;
+}
+.test-1 p{
+    font-size: 18px;
+    color: #525254;
+    margin-bottom: 25px;
+}
+.btn-2{
+    display: inline-block;
+    padding: 15px 25px;
+    border-radius: 25px;
+    background-color: #525254;
+    color: #000000;
+}
+.btn-2:hover{
+    background-color: #f5f5f5;
+}
+footer{
+    padding: 100px 0px 30px 0px;
+    background-color: rgb(190, 120, 255);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container-info{
+    padding: 35px;
+    text-align: center;
+    box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.3);
+    margin: 0px 15px 0px 0px;
+    color: #000000;
+}
+.container-info h5{
+    font-size: 25px;
+    margin-bottom: 10px;
+    
+}
+
+
+
